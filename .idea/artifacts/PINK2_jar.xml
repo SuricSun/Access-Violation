@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PINK2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PINK2_jar</output-path>
+    <root id="archive" name="PINK2.jar">
+      <element id="module-output" name="PINK2" />
+    </root>
+  </artifact>
+</component>
