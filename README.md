@@ -6,7 +6,7 @@
 访问客户端的代理端口即可
 ```
 ## 路由配置
-```
+```json
 {
 	"proxy_data_multiplexing_listen_port": 8888,
 	"router": [
