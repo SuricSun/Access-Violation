@@ -11,9 +11,9 @@
 	"proxy_data_multiplexing_listen_port": 8888,
 	"router": [
 		{
-      // 从任意地址
+                        // 从任意地址
 			"from_regex": ".+",
-      //映射到注册名为CLIENT_PINK的主机
+                        //映射到注册名为CLIENT_PINK的主机
 			"to": "CLIENT_PINK"
 		}
 	],
